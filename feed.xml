@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Jeremy Douglass</title>
+    <link href="https://jeremydouglass.github.io/web/feed.xml" rel="self" />
+    <link href="https://jeremydouglass.github.io/web" />
+    <updated>2019-10-16T12:18:20-07:00</updated>
+    <author>
+        <name>Jeremy Douglass</name>
+    </author>
+    <id>https://jeremydouglass.github.io/web</id>
+
+    <entry>
+        <title>WhatEvery1Says: the Humanities in Public Discourse</title>
+        <author>
+            <name>Jeremy Douglass</name>
+        </author>
+        <link href="https://jeremydouglass.github.io/web/whatevery1says-the-humanities-in-public-discourse.html"/>
+        <id>https://jeremydouglass.github.io/web/whatevery1says-the-humanities-in-public-discourse.html</id>
+
+        <updated>2019-10-16T12:15:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremydouglass.github.io/web/media/posts/5/we1s_homepage-1000x350.png" alt="WhatEvery1Says project banner image (newspaper stacks)" />
+                    WhatEvery1Says (WE1S) is a project using digital humanities methods to study public&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremydouglass.github.io/web/media/posts/5/we1s_homepage-1000x350.png" alt="WhatEvery1Says project banner image (newspaper stacks)" />
+                <p>WhatEvery1Says (WE1S) is a project using digital humanities methods to study public discourse about the humanities at large data scales. The project concentrates on, but is not limited to, journalistic articles available in digital textual form beginning circa 1981.</p>
+<div class="overlay"> </div>
+<p><a href="http://we1s.ucsb.edu/">http://we1s.ucsb.edu/</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>10 PRINT [book]</title>
+        <author>
+            <name>Jeremy Douglass</name>
+        </author>
+        <link href="https://jeremydouglass.github.io/web/10-print-book.html"/>
+        <id>https://jeremydouglass.github.io/web/10-print-book.html</id>
+
+        <updated>2019-10-16T11:57:15-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremydouglass.github.io/web/media/posts/4/10print-2x2_1000x700.gif" alt="Cover design for 10 PRINT featuring maze graphics output" />
+                    10 PRINT CHR$(205.5+RND(1)); : GOTO 10The book is available from The MIT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremydouglass.github.io/web/media/posts/4/10print-2x2_1000x700.gif" alt="Cover design for 10 PRINT featuring maze graphics output" />
+                <h3 id="mcetoc_1dnauqdpg0">10 PRINT CHR$(205.5+RND(1)); : GOTO 10</h3>
+<p>The book is available from <a href="#INTERNAL_LINK#/post/null">The MIT Press</a>, and for sale at <a href="http://www.powells.com/biblio/62-9780262018463-1">Powell's</a> and <a href="http://www.barnesandnoble.com/w/10-print-chr-nick-montfort/1110738768">Barnes &amp; Noble</a> and <a href="http://www.amazon.com/10-PRINT-CHR-205-5-RND/dp/0262018462/">Amazon</a> (<a href="http://www.amazon.ca/10-PRINT-CHR-205-5-RND/dp/0262018462/">Canada,</a> <a href="http://www.amazon.co.uk/10-PRINT-CHR-205-5-RND/dp/0262018462/">UK</a>). <a href="http://nickm.com/trope_tank/10_PRINT_121114.pdf"><i>10 PRINT</i>'s content is also available as a PDF</a> (50 MB), provided under a Creative Commons BY-NC-SA 3.0 license, on the book homepage, <a href="#INTERNAL_LINK#/post/null">10print.org</a>.</p>
+<p>This book takes a single line of code—the extremely concise BASIC program for the Commodore 64 inscribed in the title—and uses it as a lens through which to consider the phenomenon of creative computing and the way computer programs exist in culture. The authors of this collaboratively written book treat code not as merely functional but as a text—in the case of <i>10 PRINT</i>, a text that appeared in many different printed sources—that yields a story about its making, its purpose, its assumptions, and more. They consider randomness and regularity in computing and art, the maze in culture, the popular BASIC programming language, and the highly influential Commodore 64 computer.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Reading Project [book]</title>
+        <author>
+            <name>Jeremy Douglass</name>
+        </author>
+        <link href="https://jeremydouglass.github.io/web/reading-project-book.html"/>
+        <id>https://jeremydouglass.github.io/web/reading-project-book.html</id>
+
+        <updated>2019-10-16T11:50:47-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremydouglass.github.io/web/media/posts/3/tachistoscope_500x350.jpg" alt="" />
+                    Reading Project: a Collaborative Analysis of William Poundstone's Project for Tachistoscope {Bottomless&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremydouglass.github.io/web/media/posts/3/tachistoscope_500x350.jpg" alt="" />
+                <h3 id="mcetoc_1dnau87ve0">Reading Project: a Collaborative Analysis of William Poundstone's Project for Tachistoscope {Bottomless Pit} </h3>
+<p><a href="https://www.uipress.uiowa.edu/books/9781609383459/reading-project">Available from University of Iowa Press</a></p>
+<p class="msg--highlight msg  ">“<em>Reading </em>Project is an inspired collaboration showing how different theoretical frameworks can collaborate productively and synergistically in analyzing a work of digital literature. The book’s importance comes not only from the excellent insights it offers but, in a broader sense, as a contribution showing that traditional and digital humanities need not be antagonistic but can work together to understand much more deeply how digital literature works than any one approach could do alone. This should be required reading in every course on contemporary literature, whether print-based or digitally inclined.”—N. Katherine Hayles, author,<em> How We Think: Digital Media and Contemporary Technogenesis</em></p>
+<p class="msg msg--highlight ">“Pressman, Douglass, and Marino bring their considerable expertise to bear on William Poundstone’s remarkable work of electronic literature, <em>Project for Tachistoscope.</em> The result is a richly informative demonstration of the ways the technical, poetical, graphical, and conceptual dimensions of such work calls for literary criticism that dialogues with new media practices.”—Johanna Drucker, author, <em>Graphesis: Visual Forms of Knowledge Production</em></p>
+<p>Electronic literature is a rapidly growing area of creative production and scholarly interest. It is inherently multimedial and multimodal, and thus demands multiple critical methods of interpretation. <em>Reading </em>Project: A Collaborative Analysis of William Poundstone’s <em>Project for Tachistoscope {Bottomless Pit}</em> is a collaboration between three scholars combining different interpretive methods of digital literature and poetics in order to think through how critical reading is changing—and, indeed, must change—to keep up with the emergence of digital poetics and practices. It weaves together radically different methodological approaches—close reading of onscreen textual and visual aesthetics, Critical Code Studies, and cultural analytics (big data)—into a collaborative interpretation of a single work of digital literature.</p>
+<p><em>Project for the Tachistoscope {Bottomless Pit}</em> is a work of electronic literature that presents a high-speed, one-word-at-a-time animation synchronized to visual and aural effects. It tells the tale of a mysterious pit and its impact on the surrounding community. Programmed in Flash and published online, its fast-flashing aesthetic of information overload bombards the reader with images, text, and sound in ways that challenge the ability to read carefully, closely, and analytically in traditional ways. The work’s multiple layers of poetics and programming can be most effectively read and analyzed through collaborative efforts at computational criticism such as is modeled in this book. The result is a unique and trailblazing book that presents the authors’ collaborative efforts and interpretations as a case study for performing digital humanities literary criticism of born-digital poetics.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Jeremy Douglass</name>
+        </author>
+        <link href="https://jeremydouglass.github.io/web/about.html"/>
+        <id>https://jeremydouglass.github.io/web/about.html</id>
+
+        <updated>2019-10-16T11:48:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremydouglass.github.io/web/media/posts/1/Jeremy-Douglass-Mapping-Time-2014.jpg" alt="Jeremy Douglass (photo)" />
+                    Jeremy Douglass is Assistant Professor of English at the University of California,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremydouglass.github.io/web/media/posts/1/Jeremy-Douglass-Mapping-Time-2014.jpg" alt="Jeremy Douglass (photo)" />
+                <p>Jeremy Douglass is Assistant Professor of English at the University of California, Santa Barbara. He serves as the faculty director of the Digital Arts and Humanities Commons (DAHC), and is the former director of Transcriptions, a center for research in literature, culture, media, and the digital humanities. He is co-author, with Jessica Pressman and Mark C. Marino, of <em>Reading Project: A Collaborative Analysis of William Poundstone’s Project for Tachistoscope {Bottomless Pit}</em> (Iowa UP, 2015), and co-author, with Montfort et. al, of <em>10 PRINT CHR$(205.5+RND(1)); : GOTO 10</em> (The MIT Press, 2012). He is co-PI on the <em>WhatEvery1Says</em> project.</p>
+<p>Douglass conducts research on interactive narrative, games, and electronic literature, with a focus on the methods of software studies, critical code studies, and cultural analytics. His work has been supported by the NEH Office of Digital Humanities, MacArthur Foundation, Mellon Foundation, ACLS, Calit2, HASTAC, and NERSC.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jeremydouglass.github.io/web/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jeremydouglass.github.io/web/</loc>
+</url>
+<url>
+<loc>https://jeremydouglass.github.io/web/10-print-book.html</loc>
+<lastmod>2019-10-16T11:57:15-07:00</lastmod>
+<image:image>
+<image:loc>https://jeremydouglass.github.io/web/media/posts/4/10print-2x2_1000x700.gif</image:loc>
+<image:title><![CDATA[Cover design for 10 PRINT featuring maze graphics output]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jeremydouglass.github.io/web/about.html</loc>
+<lastmod>2019-10-16T11:48:58-07:00</lastmod>
+<image:image>
+<image:loc>https://jeremydouglass.github.io/web/media/posts/1/Jeremy-Douglass-Mapping-Time-2014.jpg</image:loc>
+<image:title><![CDATA[Jeremy Douglass (photo)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jeremydouglass.github.io/web/reading-project-book.html</loc>
+<lastmod>2019-10-16T11:50:47-07:00</lastmod>
+<image:image>
+<image:loc>https://jeremydouglass.github.io/web/media/posts/3/tachistoscope_500x350.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jeremydouglass.github.io/web/whatevery1says-the-humanities-in-public-discourse.html</loc>
+<lastmod>2019-10-16T12:15:35-07:00</lastmod>
+<image:image>
+<image:loc>https://jeremydouglass.github.io/web/media/posts/5/we1s_homepage-1000x350.png</image:loc>
+<image:title><![CDATA[WhatEvery1Says project banner image (newspaper stacks)]]></image:title>
+</image:image>
+</url>
+</urlset>
